@@ -46,6 +46,7 @@ body {
     cursor: pointer;
     font-size: 16px;
     padding: 18px 20px;
+    
  
 }
 .search-form-input::placeholder {
@@ -106,7 +107,7 @@ footer {
     border-top: 1px solid #f9f7fe;
     text-align: center;
     font-size: 13px;
-    letter-spacing: 1px;
+    letter-spacing: -0.5px;
     padding-top: 40px;
     text-decoration: #abcecf;
 }

@@ -108,7 +108,7 @@ main {
 }
 
 
-.weather-forcast-date {
+.weather-forecast-date {
     color: #abcecf;
     font-size: 16px;
     line-height:20px;
@@ -116,12 +116,12 @@ main {
     text-align: center;
 }
 
-.weather-forcast-icon {
+.weather-forecast-icon {
     font-size: 38px;
     text-align: center;
 }
 
-.weather-forcast-temperatures {
+.weather-forecast-temperatures {
     color: #abcecf;
     display: flex;
     font-size: 16px;
@@ -130,7 +130,7 @@ main {
     text-align: center;
 }
 
-.weather-forcast-temperature {
+.weather-forecast-temperature {
     padding:0 10px;
 }
 
